@@ -1,2 +1,2 @@
 ignore:
-  - "test_*.py" # ignore tests.
+  - "tests.py" # codecov will handle code coverage, travis will handle tests.
